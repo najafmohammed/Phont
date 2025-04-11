@@ -1,4 +1,3 @@
-import "@/styles/globals.css";
 import subtitles from "../data/subtitles.json";
 import { useEffect, useState } from "react";
 
